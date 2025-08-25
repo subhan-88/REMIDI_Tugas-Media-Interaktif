@@ -1,0 +1,28 @@
+/CyberSafety-VR
+│
+├── /Assets
+│   ├── /Visual
+│   │   ├── icons/
+│   │   ├── background/
+│   │   └── 3d-models/
+│   │
+│   ├── /Audio
+│   │   ├── sfx/
+│   │   └── music/
+│   │
+│   ├── /Text
+│   │   ├── modules/
+│   │   └── quiz/
+│   │
+│   └── /Technology
+│       ├── vr-sdk/
+│       └── game-engine/
+│
+├── /Docs
+│   ├── design-doc.pdf
+│   └── wireframe.png
+│
+├── /Source
+│   └── UnityProjectFiles/
+│
+└── README.md
