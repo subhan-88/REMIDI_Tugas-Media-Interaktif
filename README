@@ -1,0 +1,31 @@
+# CyberSafety VR
+Media Interaktif Edukasi Keamanan Digital untuk Remaja Berbasis Virtual Reality.
+
+## Daftar Aset Proyek
+
+### 1. Visual
+- **Ikon Gembok & Perisai** - [Flaticon](https://www.flaticon.com/)
+- **Background Digital** - [Freepik](https://www.freepik.com/)
+- **Model 3D Avatar Remaja** - [Sketchfab](https://sketchfab.com/)
+
+### 2. Audio
+- **Efek Klik Menu & Peringatan** - [Freesound](https://freesound.org/)
+- **Musik Latar Edukasi** - [Pixabay Music](https://pixabay.com/music/)
+
+### 3. Teks & Materi Edukasi
+- **Modul Keamanan Digital** - Konten dari [SaferKids.id](https://saferkids.id)
+- **Pertanyaan & Quiz** - Dibuat oleh Tim Proyek (Original Content)
+
+### 4. Teknologi
+- **Game Engine** - [Unity 3D](https://unity.com/)
+- **VR SDK** - [Oculus Developer](https://developer.oculus.com/)
+
+---
+
+## Dokumentasi
+- [Rancangan Desain (PDF)](Docs/design-doc.pdf)
+- [Wireframe Visual (PNG)](Docs/wireframe.png)
+
+## Lisensi
+- Aset pihak ketiga mengikuti lisensi dari sumber masing-masing (CC0 / Attribution).  
+- Kode sumber menggunakan lisensi MIT.
